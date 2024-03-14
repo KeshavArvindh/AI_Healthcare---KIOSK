@@ -18,7 +18,7 @@ Selenium for automated browser control
 Installation
 bash
 Copy code
-git clone https://github.com/yourusername/rural-healthcare-assistance.git
+git clone https://github.com/KeshavArvindh/AI_Healthcare---KIOSK
 cd rural-healthcare-assistance
 
 Usage
